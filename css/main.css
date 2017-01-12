@@ -1,0 +1,106 @@
+/*
+Colors to use:
+dark blue: #06365f
+light blue: #1c5380
+*/
+
+body{
+  background: url("/Users/paulmohabir/Desktop/bitmaker/projects/css-site-replication/starter-code/images/bgtile.png") repeat-x;
+}
+
+p{
+  font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  display: inline-block;
+  box-sizing: border-box;
+  z-index: 20;
+  position: absolute;
+  bottom: 30%;
+  left: 62%;
+  width: 424px;
+}
+h1{
+  text: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #06365f;
+
+  display: inline-block;
+  box-sizing: border-box;
+  z-index: 20;
+  position: absolute;
+  bottom: 53%;
+  left: 62%;
+  width: 424px;
+}
+
+
+#Container {
+    display: inline-block;
+    box-sizing: border-box;
+    padding-left: -10%;
+}
+
+img {
+    display: inline-block;
+    box-sizing: border-box;
+}
+.frame {
+    display: inline-block;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 30%;
+    left: 60%;
+    z-index: -100;
+}
+.phones {
+    display: inline-block;
+    box-sizing: border-box;
+    position: absolute;
+    padding-left: 350px;
+    left: 10%;
+    bottom: 17%;
+}
+.android{
+  display: inline-block;
+  box-sizing: border-box;
+  position: absolute;
+  bottom: 20%;
+  left: 75%;
+}
+.iphone {
+    display: inline-block;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 20%;
+    left: 62%;
+}
+.brand{
+display: inline-block;
+box-sizing: border-box;
+position: absolute;
+top: 23%;
+right: 16%;
+}
+
+.home{
+  display: inline-block;
+  box-sizing: border-box;
+  position: absolute;
+  top: 5%;
+  right: 16%;
+}
+
+.legal{
+  font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  display: inline-block;
+  box-sizing: border-box;
+  position: absolute;
+}
+
+ul {
+    list-style-type: none;
+    box-sizing: border-box;
+    display: inline-block;
+    position: absolute;
+    bottom: 8%;
+    left: 25%;
+    margin-top: 10px;
+}
